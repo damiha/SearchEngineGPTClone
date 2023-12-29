@@ -1,0 +1,22 @@
+IMPORTANT NOTE: Most educators and professionals do not consider it appropriate to use tertiary sources such as encyclopedias as a sole source for any information—citing an encyclopedia as an important reference in footnotes or bibliographies may result in censure or a failing grade.   Wikipedia articles should be used for background information, as a reference for correct terminology and search terms, and as a starting point for further research.
+
+As with any community-built reference, there is a possibility for error in Wikipedia's content—please check your facts against multiple sources and read our disclaimers for more information.
+
+Please remember to check your manual of style, standards guide or instructor's guidelines for the exact syntax to suit your needs.  For more detailed advice, see Citing Wikipedia.
+
+Wikipedia contributors. (2023, November 26). Giotto. In Wikipedia, The Free Encyclopedia. Retrieved 13:31, December 29, 2023, from https://en.wikipedia.org/w/index.php?title=Giotto&oldid=1186898286
+
+Wikipedia contributors. "Giotto." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 26 Nov. 2023. Web. 29 Dec. 2023.
+
+Wikipedia contributors, 'Giotto',  Wikipedia, The Free Encyclopedia, 26 November 2023, 05:00 UTC, <https://en.wikipedia.org/w/index.php?title=Giotto&oldid=1186898286> [accessed 29 December 2023]
+
+Wikipedia contributors, "Giotto,"  Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Giotto&oldid=1186898286 (accessed December 29, 2023).
+
+Wikipedia contributors. Giotto [Internet].  Wikipedia, The Free Encyclopedia;  2023 Nov 26, 05:00 UTC [cited 2023 Dec 29].  Available from: 
+https://en.wikipedia.org/w/index.php?title=Giotto&oldid=1186898286.
+
+Giotto, https://en.wikipedia.org/w/index.php?title=Giotto&oldid=1186898286 (last visited Dec. 29, 2023).
+
+Wikipedia contributors. Giotto. Wikipedia, The Free Encyclopedia. November 26, 2023, 05:00 UTC. Available at: https://en.wikipedia.org/w/index.php?title=Giotto&oldid=1186898286. Accessed December 29, 2023.
+
+When using the LaTeX package url (\usepackage{url} somewhere in the preamble), which tends to give much more nicely formatted web addresses, the following may be preferred:

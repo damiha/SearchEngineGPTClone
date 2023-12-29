@@ -1,0 +1,646 @@
+{
+    "1.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "2.txt": {
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+        "date": "2023-12-29"
+    },
+    "3.txt": {
+        "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+        "date": "2023-12-29"
+    },
+    "5.txt": {
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+        "date": "2023-12-29"
+    },
+    "4.txt": {
+        "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+        "date": "2023-12-29"
+    },
+    "6.txt": {
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+        "date": "2023-12-29"
+    },
+    "7.txt": {
+        "url": "https://en.wikipedia.org/wiki/Special:Search",
+        "date": "2023-12-29"
+    },
+    "8.txt": {
+        "url": "https://en.wikipedia.org/wiki/Help:Contents",
+        "date": "2023-12-29"
+    },
+    "11.txt": {
+        "url": "https://en.wikipedia.org/wiki/Main_Page",
+        "date": "2023-12-29"
+    },
+    "10.txt": {
+        "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+        "date": "2023-12-29"
+    },
+    "13.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Giotto",
+        "date": "2023-12-29"
+    },
+    "9.txt": {
+        "url": "https://en.wikipedia.org/wiki/Main_Page",
+        "date": "2023-12-29"
+    },
+    "12.txt": {
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+        "date": "2023-12-29"
+    },
+    "14.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Giotto",
+        "date": "2023-12-29"
+    },
+    "15.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#bodyContent",
+        "date": "2023-12-29"
+    },
+    "16.txt": {
+        "url": "https://en.wikipedia.org/wiki/Special:Random",
+        "date": "2023-12-29"
+    },
+    "17.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Giotto",
+        "date": "2023-12-29"
+    },
+    "18.txt": {
+        "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+        "date": "2023-12-29"
+    },
+    "19.txt": {
+        "url": "https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en",
+        "date": "2023-12-29"
+    },
+    "20.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Giotto",
+        "date": "2023-12-29"
+    },
+    "21.txt": {
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+        "date": "2023-12-29"
+    },
+    "26.txt": {
+        "url": "https://az.wikipedia.org/wiki/Cotto",
+        "date": "2023-12-29"
+    },
+    "23.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#Later_works_and_death",
+        "date": "2023-12-29"
+    },
+    "24.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#Early_life_and_career",
+        "date": "2023-12-29"
+    },
+    "22.txt": {
+        "url": "https://en.wikipedia.org/wiki/Special:MyTalk",
+        "date": "2023-12-29"
+    },
+    "27.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#Sequence",
+        "date": "2023-12-29"
+    },
+    "25.txt": {
+        "url": "https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%8B%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8B_%E0%A6%A6%E0%A6%BF_%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%A8%E0%A7%87",
+        "date": "2023-12-29"
+    },
+    "29.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#Sources",
+        "date": "2023-12-29"
+    },
+    "32.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#Peruzzi_and_Bardi_Chapels_at_Santa_Croce",
+        "date": "2023-12-29"
+    },
+    "28.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#Scrovegni_Chapel",
+        "date": "2023-12-29"
+    },
+    "33.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#External_links",
+        "date": "2023-12-29"
+    },
+    "35.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#Burial_and_legacy",
+        "date": "2023-12-29"
+    },
+    "36.txt": {
+        "url": "https://ast.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "34.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#Further_reading",
+        "date": "2023-12-29"
+    },
+    "31.txt": {
+        "url": "https://an.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "38.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#Mature_works",
+        "date": "2023-12-29"
+    },
+    "37.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#References",
+        "date": "2023-12-29"
+    },
+    "39.txt": {
+        "url": "https://zh-min-nan.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "30.txt": {
+        "url": "https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D8%AA%D9%88_%D8%AF%D9%8A_%D8%A8%D9%88%D9%86%D8%AF%D9%88%D9%86%D9%8A",
+        "date": "2023-12-29"
+    },
+    "40.txt": {
+        "url": "https://en.wikipedia.org/wiki/Special:MyContributions",
+        "date": "2023-12-29"
+    },
+    "41.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#Style",
+        "date": "2023-12-29"
+    },
+    "42.txt": {
+        "url": "https://be-tarask.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%82%D0%B0",
+        "date": "2023-12-29"
+    },
+    "46.txt": {
+        "url": "https://bs.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "48.txt": {
+        "url": "https://be.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%82%D0%B0_%D0%B4%D0%B7%D1%96_%D0%91%D0%B0%D0%BD%D0%B4%D0%BE%D0%BD%D1%8D",
+        "date": "2023-12-29"
+    },
+    "43.txt": {
+        "url": "https://ba.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%82%D1%82%D0%BE_%D0%B4%D0%B8_%D0%91%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5",
+        "date": "2023-12-29"
+    },
+    "47.txt": {
+        "url": "https://bi.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "45.txt": {
+        "url": "https://bo.wikipedia.org/wiki/%E0%BD%86%E0%BD%A0%E0%BD%BC%E0%BC%8B%E0%BD%90%E0%BD%BC%E0%BC%8D",
+        "date": "2023-12-29"
+    },
+    "49.txt": {
+        "url": "https://br.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "44.txt": {
+        "url": "https://et.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "51.txt": {
+        "url": "https://de.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "52.txt": {
+        "url": "https://da.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "50.txt": {
+        "url": "https://ca.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "55.txt": {
+        "url": "https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CF%8C%CF%84%CF%84%CE%BF",
+        "date": "2023-12-29"
+    },
+    "53.txt": {
+        "url": "https://cv.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%82%D1%82%D0%BE_%D0%B4%D0%B8_%D0%91%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5",
+        "date": "2023-12-29"
+    },
+    "54.txt": {
+        "url": "https://fa.wikipedia.org/wiki/%D8%AC%D9%88%D8%AA%D9%88",
+        "date": "2023-12-29"
+    },
+    "56.txt": {
+        "url": "https://eu.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "59.txt": {
+        "url": "https://bg.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%82%D0%BE",
+        "date": "2023-12-29"
+    },
+    "58.txt": {
+        "url": "https://cy.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "57.txt": {
+        "url": "https://cs.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "60.txt": {
+        "url": "https://es.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "61.txt": {
+        "url": "https://eo.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "62.txt": {
+        "url": "https://ga.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "63.txt": {
+        "url": "https://fur.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "64.txt": {
+        "url": "https://ko.wikipedia.org/wiki/%EC%A1%B0%ED%86%A0_%EB%94%94_%EB%B3%B8%EB%8F%84%EB%84%A4",
+        "date": "2023-12-29"
+    },
+    "65.txt": {
+        "url": "https://io.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "67.txt": {
+        "url": "https://jv.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "68.txt": {
+        "url": "https://pam.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "70.txt": {
+        "url": "https://is.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "71.txt": {
+        "url": "https://sw.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "69.txt": {
+        "url": "https://id.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "66.txt": {
+        "url": "https://gl.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "73.txt": {
+        "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%95%D7%98%D7%95_%D7%93%D7%99_%D7%91%D7%95%D7%A0%D7%93%D7%95%D7%A0%D7%94",
+        "date": "2023-12-29"
+    },
+    "75.txt": {
+        "url": "https://hr.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "76.txt": {
+        "url": "https://hy.wikipedia.org/wiki/%D5%8B%D5%B8%D5%BF%D5%BF%D5%B8_%D5%A4%D5%AB_%D4%B2%D5%B8%D5%B6%D5%A4%D5%B8%D5%B6%D5%A5",
+        "date": "2023-12-29"
+    },
+    "74.txt": {
+        "url": "https://lt.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "77.txt": {
+        "url": "https://ka.wikipedia.org/wiki/%E1%83%AF%E1%83%9D%E1%83%A2%E1%83%9D_%E1%83%93%E1%83%98_%E1%83%91%E1%83%9D%E1%83%9C%E1%83%93%E1%83%9D%E1%83%9C%E1%83%94",
+        "date": "2023-12-29"
+    },
+    "72.txt": {
+        "url": "https://la.wikipedia.org/wiki/Giottus_Bondonis",
+        "date": "2023-12-29"
+    },
+    "78.txt": {
+        "url": "https://lv.wikipedia.org/wiki/D%C5%BEoto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "79.txt": {
+        "url": "https://lij.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "80.txt": {
+        "url": "https://it.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "81.txt": {
+        "url": "https://fr.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "82.txt": {
+        "url": "https://pa.wikipedia.org/wiki/%E0%A8%9C%E0%A9%8B%E0%A8%9F%E0%A9%8B_%E0%A8%A6%E0%A9%80_%E0%A8%AC%E0%A9%8B%E0%A8%A8%E0%A8%A1%E0%A9%8B%E0%A8%A8%E0%A9%87",
+        "date": "2023-12-29"
+    },
+    "84.txt": {
+        "url": "https://ml.wikipedia.org/wiki/%E0%B4%9C%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8B",
+        "date": "2023-12-29"
+    },
+    "83.txt": {
+        "url": "https://mg.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "85.txt": {
+        "url": "https://my.wikipedia.org/wiki/%E1%80%82%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%90%E1%80%AD%E1%80%AF_(%E1%80%95%E1%80%94%E1%80%BA%E1%80%B8%E1%80%81%E1%80%BB%E1%80%AE%E1%80%86%E1%80%9B%E1%80%AC)",
+        "date": "2023-12-29"
+    },
+    "87.txt": {
+        "url": "https://nn.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "86.txt": {
+        "url": "https://arz.wikipedia.org/wiki/%D8%AC%D9%88%D8%AA%D9%88_%D8%AF%D9%89_%D8%A8%D9%88%D9%86%D8%AF%D9%88%D9%86%D9%89",
+        "date": "2023-12-29"
+    },
+    "88.txt": {
+        "url": "https://uz.wikipedia.org/wiki/Jotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "89.txt": {
+        "url": "https://oc.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "90.txt": {
+        "url": "https://hu.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "92.txt": {
+        "url": "https://pnb.wikipedia.org/wiki/%D8%AC%D9%88%D8%AA%D9%88_%D8%AF%DB%8C_%D8%A8%D9%88%D9%86%D8%AF%D9%88%D9%86%DB%92",
+        "date": "2023-12-29"
+    },
+    "91.txt": {
+        "url": "https://mt.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "94.txt": {
+        "url": "https://pms.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "93.txt": {
+        "url": "https://nl.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "95.txt": {
+        "url": "https://no.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "97.txt": {
+        "url": "https://ro.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "98.txt": {
+        "url": "https://pt.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "100.txt": {
+        "url": "https://pl.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "96.txt": {
+        "url": "https://szy.wikipedia.org/wiki/Cyaw-tow.ti.pang-to-na%E5%96%AC%E6%89%98%C2%B7%E8%BF%AA%C2%B7%E9%82%A6%E5%A4%9A%E7%B4%8D",
+        "date": "2023-12-29"
+    },
+    "99.txt": {
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%83%E3%83%88%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BB%E3%83%9C%E3%83%B3%E3%83%89%E3%83%BC%E3%83%8D",
+        "date": "2023-12-29"
+    },
+    "101.txt": {
+        "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%82%D1%82%D0%BE_%D0%B4%D0%B8_%D0%91%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5",
+        "date": "2023-12-29"
+    },
+    "102.txt": {
+        "url": "https://stq.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "103.txt": {
+        "url": "https://sc.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "104.txt": {
+        "url": "https://simple.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "107.txt": {
+        "url": "https://scn.wikipedia.org/wiki/Giottu",
+        "date": "2023-12-29"
+    },
+    "105.txt": {
+        "url": "https://sh.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "106.txt": {
+        "url": "https://tl.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "108.txt": {
+        "url": "https://fi.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "112.txt": {
+        "url": "https://wuu.wikipedia.org/wiki/%E4%B9%94%E6%89%98%C2%B7%E8%BF%AA%C2%B7%E9%82%A6%E5%A4%9A%E5%86%85",
+        "date": "2023-12-29"
+    },
+    "111.txt": {
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%AD%E0%B8%95%E0%B9%82%E0%B8%95_%E0%B8%94%E0%B8%B5_%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%94%E0%B9%80%E0%B8%99",
+        "date": "2023-12-29"
+    },
+    "110.txt": {
+        "url": "https://tr.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "115.txt": {
+        "url": "https://sl.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "109.txt": {
+        "url": "https://war.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "114.txt": {
+        "url": "https://sr.wikipedia.org/wiki/%D0%82%D0%BE%D1%82%D0%BE_%D0%B4%D0%B8_%D0%91%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5",
+        "date": "2023-12-29"
+    },
+    "113.txt": {
+        "url": "https://sk.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "117.txt": {
+        "url": "https://sq.wikipedia.org/wiki/Gjoto",
+        "date": "2023-12-29"
+    },
+    "116.txt": {
+        "url": "https://sv.wikipedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "118.txt": {
+        "url": "https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%82%D1%82%D0%BE_%D0%B4%D1%96_%D0%91%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5",
+        "date": "2023-12-29"
+    },
+    "119.txt": {
+        "url": "https://vi.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "120.txt": {
+        "url": "https://vec.wikipedia.org/wiki/Giotto",
+        "date": "2023-12-29"
+    },
+    "121.txt": {
+        "url": "https://roa-tara.wikipedia.org/wiki/Giotte",
+        "date": "2023-12-29"
+    },
+    "123.txt": {
+        "url": "https://zh-yue.wikipedia.org/wiki/%E5%96%AC%E6%89%98",
+        "date": "2023-12-29"
+    },
+    "122.txt": {
+        "url": "https://zh.wikipedia.org/wiki/%E5%96%AC%E6%89%98%C2%B7%E8%BF%AA%C2%B7%E9%82%A6%E5%A4%9A%E5%85%A7",
+        "date": "2023-12-29"
+    },
+    "124.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Giotto&action=history",
+        "date": "2023-12-29"
+    },
+    "126.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGiotto",
+        "date": "2023-12-29"
+    },
+    "125.txt": {
+        "url": "https://commons.wikimedia.org/wiki/Giotto_di_Bondone",
+        "date": "2023-12-29"
+    },
+    "127.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Giotto&id=1186898286&wpFormIdentifier=titleform",
+        "date": "2023-12-29"
+    },
+    "128.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Giotto&action=show-download-screen",
+        "date": "2023-12-29"
+    },
+    "129.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Giotto&action=history",
+        "date": "2023-12-29"
+    },
+    "130.txt": {
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+        "date": "2023-12-29"
+    },
+    "131.txt": {
+        "url": "https://en.wikipedia.org/wiki/Talk:Giotto",
+        "date": "2023-12-29"
+    },
+    "132.txt": {
+        "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Giotto",
+        "date": "2023-12-29"
+    },
+    "134.txt": {
+        "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+        "date": "2023-12-29"
+    },
+    "133.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Giotto&action=info",
+        "date": "2023-12-29"
+    },
+    "135.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Giotto&oldid=1186898286",
+        "date": "2023-12-29"
+    },
+    "136.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Giotto&action=edit",
+        "date": "2023-12-29"
+    },
+    "137.txt": {
+        "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Giotto",
+        "date": "2023-12-29"
+    },
+    "138.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Giotto&printable=yes",
+        "date": "2023-12-29"
+    },
+    "139.txt": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Giotto&action=edit",
+        "date": "2023-12-29"
+    },
+    "140.txt": {
+        "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q7814#sitelinks-wikipedia",
+        "date": "2023-12-29"
+    },
+    "141.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto_(disambiguation)",
+        "date": "2023-12-29"
+    },
+    "142.txt": {
+        "url": "https://en.wikipedia.org/wiki/File:Giotto_-_Tableau_repr%C3%A9sentant_cinq_ma%C3%AEtres_de_la_Renaissance_florentine_(d%C3%A9but_XVIe_si%C3%A8cle_%3F).JPG",
+        "date": "2023-12-29"
+    },
+    "143.txt": {
+        "url": "https://en.wikipedia.org/wiki/Help:IPA/Italian",
+        "date": "2023-12-29"
+    },
+    "144.txt": {
+        "url": "https://en.wikipedia.org/wiki/Republic_of_Florence",
+        "date": "2023-12-29"
+    },
+    "145.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto%27s_Campanile",
+        "date": "2023-12-29"
+    },
+    "146.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#cite_note-4",
+        "date": "2023-12-29"
+    },
+    "147.txt": {
+        "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q7814",
+        "date": "2023-12-29"
+    },
+    "149.txt": {
+        "url": "https://en.wikipedia.org/wiki/Fresco",
+        "date": "2023-12-29"
+    },
+    "148.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#cite_note-2",
+        "date": "2023-12-29"
+    },
+    "151.txt": {
+        "url": "https://en.wikipedia.org/wiki/British_English",
+        "date": "2023-12-29"
+    },
+    "150.txt": {
+        "url": "https://en.wikipedia.org/wiki/Gothic_art",
+        "date": "2023-12-29"
+    },
+    "152.txt": {
+        "url": "https://en.wikipedia.org/wiki/Mononymously",
+        "date": "2023-12-29"
+    },
+    "153.txt": {
+        "url": "https://en.wikipedia.org/wiki/Painting",
+        "date": "2023-12-29"
+    },
+    "154.txt": {
+        "url": "https://en.wikipedia.org/wiki/Giotto#cite_note-3",
+        "date": "2023-12-29"
+    },
+    "156.txt": {
+        "url": "https://en.wikipedia.org/wiki/Architecture",
+        "date": "2023-12-29"
+    },
+    "155.txt": {
+        "url": "https://en.wikipedia.org/wiki/Scrovegni_Chapel",
+        "date": "2023-12-29"
+    },
+    "157.txt": {
+        "url": "https://en.wikipedia.org/wiki/Help:IPA/English",
+        "date": "2023-12-29"
+    },
+    "158.txt": {
+        "url": "https://en.wikipedia.org/wiki/Italian_Renaissance_painting#Proto-Renaissance",
+        "date": "2023-12-29"
+    },
+    "159.txt": {
+        "url": "https://en.wikipedia.org/wiki/Florence",
+        "date": "2023-12-29"
+    },
+    "160.txt": {
+        "url": "https://en.wikipedia.org/wiki/Italians",
+        "date": "2023-12-29"
+    },
+    "161.txt": {
+        "url": "https://en.wikipedia.org/wiki/Italy",
+        "date": "2023-12-29"
+    }
+}

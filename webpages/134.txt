@@ -1,0 +1,3 @@
+This page contains a list of special pages. Most of the content of these pages is automatically generated and cannot be edited. To suggest a change to the parts that can be edited, find the appropriate text on Special:AllMessages and then request your change on the talk page of the message (using {{editprotected}} to draw the attention of administrators).
+
+For an index of special pages, see Help:SpecialPages.

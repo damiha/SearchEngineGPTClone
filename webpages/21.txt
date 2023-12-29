@@ -1,0 +1,62 @@
+
+
+This page provides a listing of current collaborations, tasks, and news about English Wikipedia. New to Wikipedia? See the contributing to Wikipedia page or our tutorial for everything you need to know to get started. For a listing of internal project pages of interest, see the department directory.
+
+For a listing of ongoing discussions and current requests, see the Dashboard.
+
+
+You can help improve the articles listed below! This list updates frequently, so check back here for more tasks to try. (See Wikipedia:Maintenance or the  Task Center for further information.)
+
+
+Help counter systemic bias by creating new articles on important women.
+
+
+Help improve popular pages, especially those of low quality.
+
+This week's article for improvement is:
+
+Carbon source (biology)
+
+Previous selections:
+Online encyclopedia ·
+International trade law ·
+East Sussex
+
+This week's backlog of the week is:
+
+Category:Pages using infobox musical artist with associated acts
+
+
+
+Welcome to the community bulletin board, which is a page used for announcements from WikiProjects and other groups. Included here are coordinated efforts, events, projects, and other general announcements.
+
+Yearly or infrequent events
+
+Monthly or continuous events
+
+
+
+Also consider posting WikiProject, Task Force, and Collaboration news at The Signpost's WikiProject Report page.
+Please include your signature when adding a listing here.
+
+
+
+Latest tech news from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. Translations are available.
+
+Tech News
+
+Changes later this week
+
+Future changes
+
+Tech news prepared by Tech News writers and posted by bot • Contribute • Translate • Get help • Give feedback • Subscribe or unsubscribe.
+
+
+
+Discussions in the following areas have requested wider attention via Requests for comment:
+
+
+
+Wikipedia should function and look right in any web browser. However, depending on the layout of an individual page and the Wikipedia skin set in your User preferences, a page layout might be broken in your browser. If the problem occurs on a single page, edit the page to fix it yourself. If you cannot fix it, put a message on the Talk page  for the page (a screenshot always helps!). If the problem occurs on all pages, try a different skin. Your browser might have some minor issues. These are listed at Wikipedia:Browser notes.
+
+

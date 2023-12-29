@@ -1,0 +1,3 @@
+[submodule "search-frontend"]
+	path = search-frontend
+	url = git@github.com:damiha/SearchEngineGPTClone.git
