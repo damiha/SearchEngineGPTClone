@@ -31,8 +31,11 @@ def get_urls():
     search_string = data.get('search_string')
     if not search_string:
         return jsonify({"message": "No search string provided."}), 400
+    
+    # english is the default language
+    lang_code = data.get("lang_code", "en")
 
-    urls = search_engine.get_urls(search_string)
+    urls = search_engine.get_urls(search_string, lang_code)
     return jsonify({"message": urls}), 200
 
 @app.route('/crawler/stop', methods=['GET'])
@@ -42,6 +45,10 @@ def stop_crawler():
         return jsonify({"message": "Crawler is not running."}), 400
 
     crawler.stop()
+
+    # new information added => the indices need to be rebuilt
+    search_engine.build_indices()
+
     return jsonify({"message": "Crawler stopped."}), 200
 
 @app.route('/crawler/info', methods=['GET'])
