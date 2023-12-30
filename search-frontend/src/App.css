@@ -42,10 +42,13 @@
 }
 
 .search-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-bottom: 20px;
 }
 
-.search-input, .search-button {
+.search-input, .language-input, .search-button {
   height: 40px;
   border-radius: 5px;
   border: 1px solid black;
@@ -55,7 +58,13 @@
 .search-input {
   padding: 0 10px;
   margin-right: 20px;
-  width: 200px;
+  width: 200px; /* Adjust if necessary */
+}
+
+.language-input {
+  width: 40px; /* Less wide than the search-input */
+  margin-right: 20px;
+  text-align: center;
 }
 
 .search-button {
@@ -98,4 +107,13 @@
 .page-number {
   display: inline-block;
   margin: 0 10px;
+}
+
+a, a:visited {
+  color: blue; /* Keeps the link blue */
+  text-decoration: underline; /* Maintains the underline */
+}
+
+a:hover, a:active {
+  color: blue; /* Optional: change if you want different color on hover/active */
 }

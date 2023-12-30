@@ -33,7 +33,7 @@ const SearchPage = () => {
                 headers: {
                     'Content-Type': 'application/json',
                 },
-                body: JSON.stringify({ search_string: searchString, language: 'en' }),
+                body: JSON.stringify({ search_string: searchString, lang_code: language}),
             });
             const data = await response.json();
             setSearchResults(data.message);
@@ -49,6 +49,8 @@ const SearchPage = () => {
     const resultsPerPage = 10;
     const paginatedResults = searchResults.slice((currentPage - 1) * resultsPerPage, currentPage * resultsPerPage);
 
+    const [language, setLanguage] = useState('en');
+
     return (
         <div className="search-page">
             <div className="search-bar">
@@ -58,6 +60,13 @@ const SearchPage = () => {
                     onChange={(e) => setSearchString(e.target.value)}
                     className="search-input"
                 />
+                <input
+                    type="text"
+                    value={language}
+                    onChange={(e) => setLanguage(e.target.value)}
+                    className="language-input"
+                    maxLength="3"
+                />
                 <button onClick={handleSearch} className="search-button">Search</button>
             </div>
             <div className="results">
@@ -66,7 +75,7 @@ const SearchPage = () => {
                         <a href={result.url}>{result.url}</a>
                         <p>date: {result.date}</p>
                         <HighlightText searchString={searchString} snippet={result.snippet} />
-                        <p>contains: {result.contains}</p>
+                        <p>language: {result.language.language}, contains: {result.contains.join(", ")}</p>
                     </div>
                 ))}
             </div>
