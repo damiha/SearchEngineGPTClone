@@ -25,9 +25,6 @@ class SearchEngine:
 
             self.build_indices()
 
-            with open(f"{self.folder_name}/index.json", 'r', encoding='utf-8') as file:
-                self.index = json.load(file)
-
             self.has_indices = True
 
         except:
@@ -271,5 +268,8 @@ class SearchEngine:
         # the forward and the inverted index need to exist for this to work
         self.tfidf_index = self.build_tfidf_index()
         self.lang_index = self.build_lang_index()
+
+        with open(f"{self.folder_name}/index.json", 'r', encoding='utf-8') as file:
+                self.index = json.load(file)
 
         self.has_indices = True
